@@ -1,0 +1,42 @@
+body{
+    background-image: url("images/babies2.png");
+    background-repeat: repeat;
+    vertical-align: top;
+    text-align: center;
+    border-style: double;
+    color: red;
+    text-shadow: 2px 2px black;
+}
+
+#welcome{
+    font-size: 50px;
+    color: yellow;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+
+#page1, #page2{
+    font-size: 30px;
+    color: lime;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+.pages{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.pages li{
+    display:inline-block;
+}
+
+.welcome{
+    background-color: lightgoldenrodyellow;
+}
+
+.title{
+    background-color: orangered;
+}
+
